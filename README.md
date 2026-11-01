@@ -1,2 +1,2 @@
 # dsh-superagent-test
-Test repo for dsh-superagent
+Test repository for dsh-superagent prototype.
